@@ -1,7 +1,7 @@
 # Salut, je suis Hugo 👋
 
-## À propos de moi
-Je suis actuellement étudiant à l'EPSI Paris, plongé dans le monde passionnant de l'informatique.
+## Etudes 
+- 🏫 EPSI Paris
 
 ## Mes centres d'intérêt
 - 💻 Développement Web
