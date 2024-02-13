@@ -4,6 +4,7 @@
 - 🏫 EPSI Paris
 
 ## Skills :
+- 🐍 Python
 - 💻 HTML
 - 🎨 CSS
 - 💼 PHP
