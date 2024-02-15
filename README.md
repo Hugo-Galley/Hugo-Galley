@@ -12,7 +12,7 @@
 - 🐙 Git
 
 ## Mes centres d'intérêt
-- 💻 Développement Web
+- 💻 Développement Python
 - 🤖 Intelligence Artificielle
 - 🚀 Explorer de nouvelles technologies
 
