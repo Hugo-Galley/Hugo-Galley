@@ -1,6 +1,6 @@
-# Salut, je suis Hugo 👋
+# Hi, I'm Hugo 👋
 
-## Etudes 
+## Education 
 - 🏫 EPSI Paris
 
 ## Skills :
@@ -11,11 +11,11 @@
 - 🗃 SQL
 - 🐙 Git
 
-## Mes centres d'intérêt
-- 💻 Développement
-- 🤖 Intelligence Artificielle
-- 🚀 Explorer de nouvelles technologies
+## My interests
+- 💻 Development
+- 🤖 Artificial Intelligence
+- 🚀 Exploring new technologies
 
 ## Contact
-- 📧 Email : galleyhugo@icloud.com
-- 🌍 Site Web : [Mon Portfolio](http://hugogalley.alwaysdata.net)
+- 📧 Email: galleyhugo@icloud.com
+- 🌍 Website: [My Portfolio](http://hugogalley.alwaysdata.net)
