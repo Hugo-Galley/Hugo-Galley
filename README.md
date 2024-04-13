@@ -10,6 +10,8 @@
 - 💼 PHP
 - 🗃 SQL
 - 🐙 Git
+- 💻 Bash
+- 🅲 C
 
 ## My interests
 - 💻 Development
