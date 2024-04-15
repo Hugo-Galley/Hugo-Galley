@@ -21,3 +21,4 @@
 ## Contact
 - 📧 Email: galleyhugo@icloud.com
 - 🌍 Website: [My Portfolio](http://hugogalley.alwaysdata.net)
+-  💼 LinkedIn: [Galley Hugo](https://www.linkedin.com/in/hugo-galley-a88198304/)
