@@ -1,7 +1,5 @@
 # Hi, I'm Hugo 👋
 
-## Work
-- 💼 Uniformation
 ## Education 
 - 🏫 EPSI Paris
 
