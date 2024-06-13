@@ -7,11 +7,11 @@
 - 🐍 Python
 - 💻 HTML
 - 🎨 CSS
-- 💼 PHP
 - 🗃 SQL
 - 🐙 Git
 - 💻 Bash
-- 🅲 C
+- 🅲 C#
+- 🖥️ .NET
 
 ## My interests
 - 💻 Development
