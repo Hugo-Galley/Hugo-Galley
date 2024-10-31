@@ -33,6 +33,8 @@
 
 ## Contact
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <p>Email : <a href="mailto:contact@galleyhugo.com">contact@galleyhugo.com</a></p>
+  <p>OR<br></p>
   <p>Email : <a href="mailto:galleyhugo@icloud.com">galleyhugo@icloud.com</a></p>
   <a href="https://galleyhugo.com" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
