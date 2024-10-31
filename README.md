@@ -25,8 +25,8 @@
 
 ## My interests
 - 💻 Development
+- 🛜 Network
 - 🤖 Artificial Intelligence
-- 🚀 Exploring new technologies
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hugo-Galley&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hugo-Galley&theme=ayu_mirage)
