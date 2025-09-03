@@ -1,5 +1,7 @@
 # Hi, I'm Hugo 👋
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugo-Galley&theme=ayu_mirage)
+## Work
+- 💼 Axa
 ## Education 
 - 🏫 EPSI Paris
 
