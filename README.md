@@ -1,9 +1,15 @@
-# Hi, I'm Hugo 👋
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugo-Galley&theme=ayu_mirage)
+ # Hi, I'm Hugo 👋
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-galleyhugo.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://galleyhugo.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=top_badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-galley)
+[![Email](https://img.shields.io/badge/Email-contact@galleyhugo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@galleyhugo.com)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugo-Galley&theme=ayu_mirage)
+  
 ## Work
-- 💼 Axa
+  - 💼 Axa
 ## Education 
-- 🏫 EPSI Paris
+  - 🏫 EPSI Paris
 
 ## Skills :
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -20,25 +26,19 @@
 ![AzureDevops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
 ## My interests
-- 💻 Development
-- ⚙️ Devops
-- 🛜 Network
+  - 💻 Development
+  - ⚙️ Devops
+  - 🛜 Network
+
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hugo-Galley&theme=ayu_mirage)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hugo-Galley&theme=ayu_mirage)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hugo-Galley&theme=ayu_mirage)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hugo-Galley&theme=ayu_mirage)
 
 ## Contact
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <p>Email : <a href="mailto:contact@galleyhugo.com">contact@galleyhugo.com</a></p>
-  <p>OR<br></p>
-  <p>Email : <a href="mailto:galleyhugo@icloud.com">galleyhugo@icloud.com</a></p>
-  <a href="https://galleyhugo.com" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
-  </a>
-  <a href="https://www.linkedin.com/in/hugo-galley" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+Email : [contact@galleyhugo.com](mailto:contact@galleyhugo.com)  
+OR  
+Email : [galleyhugo@icloud.com](mailto:galleyhugo@icloud.com)
 
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://galleyhugo.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=contact_card)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-galley)
