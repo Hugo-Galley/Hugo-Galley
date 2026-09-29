@@ -1,6 +1,6 @@
  # Hi, I'm Hugo 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-galleyhugo.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://galleyhugo.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=top_badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-galleyhugo.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://galleyhugo.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=top_badge_github)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-galley)
 [![Email](https://img.shields.io/badge/Email-contact@galleyhugo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@galleyhugo.com)
 
@@ -40,5 +40,5 @@ Email : [contact@galleyhugo.com](mailto:contact@galleyhugo.com)
 OR  
 Email : [galleyhugo@icloud.com](mailto:galleyhugo@icloud.com)
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://galleyhugo.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=contact_card)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://galleyhugo.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=contact_card_github)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-galley)
